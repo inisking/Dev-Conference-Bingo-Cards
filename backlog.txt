@@ -1,0 +1,2 @@
+# Quick Thoughts
+Add test to confirm proper deletion of resources
